@@ -1,0 +1,7 @@
+name: TntRun
+version: 1.0.0
+author: Naruse
+main: fr.naruse.tntrun.main.TntRunPlugin
+commands:
+  tr:
+  tntrun:

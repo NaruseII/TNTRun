@@ -1,0 +1,29 @@
+min: 2
+lang: english
+rewards:
+  command: "null"
+  win: 0
+  lose: 0
+time:
+  bonus: 30
+  wait: 60
+allow:
+  scoreboard: true
+  end:
+    shutdown: false
+    reload: false
+    kickPlayers: true
+    tpBackPlayers: false
+joinMode:
+  sign: true
+  command: true
+  join: true
+block:
+  - "SAND"
+bonus:
+  hole:
+    enable: true
+  jump:
+    enable: true
+  exchange:
+    enable: true
